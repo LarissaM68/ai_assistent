@@ -2,7 +2,7 @@
 ссылка на проект: https://t.me/MagirayKz_Bot
 
 
-![Иллюстрация к проекту](https://example.com/image.png)
+![Иллюстрация к проекту](https://github.com/LarissaM68/ai_assistent/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-02-25%20231624.jpg?raw=true)
 
 ## Описание проекта
 
