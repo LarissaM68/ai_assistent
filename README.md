@@ -2,7 +2,7 @@
 ссылка на проект: https://t.me/MagirayKz_Bot
 
 
-! [скриншот№)] (https://raw.githubusercontent.com/LarissaM68/ai_assistent/b551cff9e4b3f430f4b8fe3a25e1236dc9340337/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-02-25%20231624.jpg)
+! [скриншот№1] (https://raw.githubusercontent.com/LarissaM68/ai_assistent/b551cff9e4b3f430f4b8fe3a25e1236dc9340337/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-02-25%20231624.jpg)
 
 ## Описание проекта
 
